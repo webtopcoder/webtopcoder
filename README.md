@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" width="400" />
   <p>
 
-  I have been working with web development since 2016, the period during which I have worked in different environments,
+  I have been working with web development since 2012, the period during which I have worked in different environments,
 from big consultancy companies to start-ups. I am a self-motivated and self-taught professional who likes to solve
 problems. I create a wonderful digital environment by combining creative thinking, user resonance, and passion for development
 experience with technical knowledge. My repertory includes programming languages and tools like ReactJS, VueJS, Mobx,
