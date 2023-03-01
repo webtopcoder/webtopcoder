@@ -81,8 +81,6 @@ decentralized applications.
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"></code>
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg"></code>
   </div>
-  https://docs.google.com/document/d/1FmgVpxvGdoLs0SYHA6ig34NozOYuDFMPqv3Uy48ATeM/edit
-https://www.figma.com/file/FQIQ0tY71ldmb7WQR9Dfwa?node-id=0:1&comments-enabled=1&viewer=1
 </div>
 
 
